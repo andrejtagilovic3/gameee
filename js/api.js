@@ -1,7 +1,7 @@
 // API Manager for backend communication
 class APIManager {
     constructor() {
-        this.baseURL = CONFIG.API_BASE_URL;
+        this.baseURL = 'https://gammme-ckakeeeee.vercel.app/server/';
         this.isOnline = navigator.onLine;
         
         // Get Telegram user data
