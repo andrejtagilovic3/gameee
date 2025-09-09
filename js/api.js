@@ -23,7 +23,7 @@ class APIManager {
     // Authenticate user
     async authenticate() {
         try {
-            const response = await this.makeRequest('POST', '/auth', {
+            const response = await this.makeRequest('POST', 'api/auth', {
                 userId: this.userId,
                 userData: this.tgUser,
                 timestamp: Date.now()
