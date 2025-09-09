@@ -1,7 +1,7 @@
 // Game Configuration
 const CONFIG = {
     // API Configuration
-    API_BASE_URL: 'https://your-nft-game-backend.vercel.app/api', // Замените на ваш URL
+    API_BASE_URL: 'https://gammme-ckakeeeee.vercel.app/',
     
     // Game Constants
     BATTLE_COST: 10,
