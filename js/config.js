@@ -1,7 +1,7 @@
 // Game Configuration
 const CONFIG = {
     // API Configuration
-    API_BASE_URL: 'https://gammme-ckakeeeee.vercel.app/server/api',
+    API_BASE_URL: 'https://gammme-ckakeeeee.vercel.app/server',
     
     // Game Constants
     BATTLE_COST: 10,
